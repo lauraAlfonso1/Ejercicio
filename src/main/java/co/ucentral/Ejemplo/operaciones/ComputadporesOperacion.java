@@ -5,6 +5,6 @@ import co.ucentral.Ejemplo.entidades.ComputadoresEntidad;
 import java.util.List;
 
 public interface ComputadporesOperacion {
-    public ComputadoresEntidad crear (ComputadoresEntidad computadores);
-    public List<ComputadoresEntidad> consultar();
+    public ComputadoresEntidad Crear (ComputadoresEntidad computadores);
+    public List<ComputadoresEntidad> Consultar();
 }
